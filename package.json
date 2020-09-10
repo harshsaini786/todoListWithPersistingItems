@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "simple-todo-list",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "Todo List with functionality to persist todos",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.13.1",
